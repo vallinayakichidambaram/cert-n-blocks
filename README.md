@@ -1,2 +1,3 @@
 # cert-n-blocks
-Issue certificates to university grads via blockchain
+Idea
+> Issue certificates to university grads via blockchain
